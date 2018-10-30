@@ -21,3 +21,4 @@ Timeline:
 
 
 
+Run main.m to see the difference between extracted features by SIFT and RANSAC.
