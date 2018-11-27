@@ -24,7 +24,6 @@ disp("Finding the image matches...");
 [matches,pairs] = image_match(points,feat);
 G = graph(pairs(:,1),pairs(:,2));
 plot(G);
-figure;
 %% Finding the different panoramas
 disp("Finding the different number of panoramas")
 [pairs_final,matches_final,N] = connected_comp(pairs,k,matches);
