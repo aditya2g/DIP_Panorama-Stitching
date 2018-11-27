@@ -38,7 +38,7 @@ Timeline:
 
 20th - 28th November: Image stitching with Blending 
 
-[Input images link]:https://drive.google.com/drive/folders/1XP3BaWB0U0lJjffVC_X3GeDMNg_XLaCW?fbclid=IwAR2mqQghSFJlJ3Hf92M-eIjvdp_uUf3DJyVb0zZZeDucMJ4ie1-vsQxtDx4
+[Input images link](https://drive.google.com/drive/folders/1XP3BaWB0U0lJjffVC_X3GeDMNg_XLaCW?fbclid=IwAR2mqQghSFJlJ3Hf92M-eIjvdp_uUf3DJyVb0zZZeDucMJ4ie1-vsQxtDx4)
 
-[Output Images link]:https://drive.google.com/drive/folders/1J9b2yyhyUz49cQ5VhBgGykenClkwc9vr?fbclid=IwAR0RUNVr3pY6BD4igvM-KIE3bfH6_BYRS8GjDdIemFnTQqnZZAYPnkCGbkg
+[Output Images link](https://drive.google.com/drive/folders/1J9b2yyhyUz49cQ5VhBgGykenClkwc9vr?fbclid=IwAR0RUNVr3pY6BD4igvM-KIE3bfH6_BYRS8GjDdIemFnTQqnZZAYPnkCGbkg)
 
