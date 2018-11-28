@@ -10,7 +10,19 @@ panorama = main("./dataset/subset1");
 
 Subset10 in the link is an example of multiple scene image set.
 
-Problem Definition
+Dependencies:
+
+Required Matlab Toolboxes
+
+1. Image Processing Toolbox 
+
+2. Computer Vision Toolbox 
+
+3. Image Acquisition Toolbox
+
+4. Optimization Toolbox 
+
+Problem Definition:
 
 Problem: Given multiple images of from different scenes, in a jumbled unordered way, reconstruct all possible panoramic images. The input images can be unordered, orientation, scale or illumination invariant. It also takes care of the noise images which are not a part of the scene during the reconstruction process.
 
@@ -38,7 +50,9 @@ Timeline:
 
 20th - 28th November: Image stitching with Blending 
 
+[Presentation Link](https://docs.google.com/presentation/d/1jv7As1NQ3JOqF7OHfIIapFaIIX_-CAiRQUqouRHQnPA/edit?fbclid=IwAR0TnFPqjF_0Pa_WPTD7gnwGDxtzySBUZGqUgzvpD_VPc1jO3m7qc8sm23c#slide=id.p)
+
 [Input images link](https://drive.google.com/drive/folders/1XP3BaWB0U0lJjffVC_X3GeDMNg_XLaCW?fbclid=IwAR2mqQghSFJlJ3Hf92M-eIjvdp_uUf3DJyVb0zZZeDucMJ4ie1-vsQxtDx4)
 
-[Output Images link](https://drive.google.com/drive/folders/1J9b2yyhyUz49cQ5VhBgGykenClkwc9vr?fbclid=IwAR0RUNVr3pY6BD4igvM-KIE3bfH6_BYRS8GjDdIemFnTQqnZZAYPnkCGbkg)
+[Output Images link](https://drive.google.com/drive/folders/1z0xpNJEx1fm9SXNqMr9aY2IdyQMfH1rj?fbclid=IwAR2pAGjJmGvZhf8eQk4o_tdp7qYqReahpV3GwNiYF3FuBqSMFOQsLUFMawM)
 
